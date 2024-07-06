@@ -1,4 +1,4 @@
-### *GTA GUIDE*
+# *GTA GUIDE*
 # ![images](https://github.com/madhav-j-nair/tommy_vercetti/assets/162718363/cde6f3d1-a79d-4f13-b466-8bde6a80ab04)
 [credits: www.thegamer.com ]
 ## ABOUT THE PROJECT
