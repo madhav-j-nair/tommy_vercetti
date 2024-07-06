@@ -39,8 +39,8 @@ And Fially I know there are a lot of things I can add but this is about GTA, a g
 
 ## ADDITIONAL REFERENCE
 
-1)Selenium : [https://www.selenium.dev/]
-2)Streamlit : [https://streamlit.io/]
-3)GTA : [https://en.wikipedia.org/wiki/Grand_Theft_Auto] from wikipedia
-4)R* GAMES : [https://www.rockstargames.com/]
-5)GTA 6 TRAILER : [https://www.youtube.com/watch?v=QdBZY2fkU-0] (Credits: Rockstar games)
+1) Selenium : [https://www.selenium.dev/]
+2) Streamlit : [https://streamlit.io/]
+3) GTA : [https://en.wikipedia.org/wiki/Grand_Theft_Auto] from wikipedia
+4) R* GAMES : [https://www.rockstargames.com/]
+5) GTA 6 TRAILER : [https://www.youtube.com/watch?v=QdBZY2fkU-0] (Credits: Rockstar games)
