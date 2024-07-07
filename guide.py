@@ -4,7 +4,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import streamlit as st
 
-# Function to scrape mission or character data
+#Code to scrape the data
 def scrape_data(web):
     driver = webdriver.Edge()
     data = []
@@ -12,7 +12,7 @@ def scrape_data(web):
     try:
         driver.get(web)
 
-        # Wait for the content to load (adjust timeout as needed)
+        
         WebDriverWait(driver, 10).until(
             EC.presence_of_all_elements_located((By.CLASS_NAME, 'wikitable'))
         )
