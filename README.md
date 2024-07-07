@@ -6,7 +6,7 @@ This is a fan made website that is dedicated to all gta fans, here you can find 
 
 ## TEAM
 1) Madhav J Nair
-2) Indian Gamer MJN (github : 
+2) Indian Gamer MJN (github : https://github.com/Indian-Gamer-MJN)
 
 ## HOW TO USE IT
 1) This website has a very simple ui
