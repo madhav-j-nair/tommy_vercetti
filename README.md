@@ -5,8 +5,8 @@
 This is a fan made website that is dedicated to all gta fans, here you can find data about the missions, charaters and an interactive map of one of the most loved , played game series . This game has a whole generation of fans who refer to it as pure nostaligia including me(even though it is 18+). This game series has created many memorable characters. This whole project is a token of respect to Rockstar, the gta community, the modding community and all the fans.
 
 ## TEAM
-Madhav J Nair
-Indian Gamer MJN (github : 
+1) Madhav J Nair
+2) Indian Gamer MJN (github : 
 
 ## HOW TO USE IT
 1) This website has a very simple ui
